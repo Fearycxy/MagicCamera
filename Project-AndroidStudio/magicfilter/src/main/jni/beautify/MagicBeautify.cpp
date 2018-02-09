@@ -1,7 +1,7 @@
 #include "MagicBeautify.h"
-#include "Math.h"
-#include "../bitmap/BitmapOperation.h"
-#include "../bitmap/Conversion.h"
+#include "math.h"
+#include "BitmapOperation.h"
+#include "Conversion.h"
 
 #define  LOG_TAG    "MagicBeautify"
 #define  LOGD(...)  __android_log_print(ANDROID_LOG_DEBUG,LOG_TAG,__VA_ARGS__)
